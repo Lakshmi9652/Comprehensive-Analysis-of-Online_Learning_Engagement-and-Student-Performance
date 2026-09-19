@@ -257,7 +257,7 @@ This helps identify differences in dropout patterns between engagement groups.
 
 ---
 
-# 📉 Performance vs Dropout
+# Performance vs Dropout
 
 Dropout rates are also compared across performance levels.
 
@@ -271,7 +271,7 @@ It provides another perspective on the relationship between academic performance
 
 ---
 
-# 🌍 Regional Analysis
+#  Regional Analysis
 
 Student data is also analyzed by region.
 
@@ -299,44 +299,44 @@ across education categories.
 
 ---
 
-# 📊 Power BI Dashboard
+# Power BI Dashboard
 
 The SQL analysis is presented through an interactive **Power BI dashboard**.
 
 ### Dashboard focus areas
 
-📌 **Student Overview**
+**Student Overview**
 
 * Total Students
 * Average Score
 * Average Clicks
 
-📌 **Engagement**
+ **Engagement**
 
 * Engagement distribution
 * Engagement vs Average Score
 * Activity/Click analysis
 
-📌 **Performance**
+**Performance**
 
 * Performance distribution
 * Average score by performance level
 
-📌 **Risk & Dropout**
+ **Risk & Dropout**
 
 * Risk-level distribution
 * Dropout analysis
 * Engagement vs dropout
 * Performance vs dropout
 
-📌 **Student Segmentation**
+ **Student Segmentation**
 
 * Region
 * Highest education level
 
 ---
 
-# 💡 Insights This Project Can Reveal
+#  Insights This Project Can Reveal
 
 The analysis framework is designed to answer questions such as:
 
@@ -366,7 +366,7 @@ The analysis framework is designed to answer questions such as:
 
 ---
 
-# 🧰 SQL Concepts Demonstrated
+#  SQL Concepts Demonstrated
 
 This project demonstrates practical SQL skills including:
 
@@ -388,7 +388,7 @@ The queries use these concepts to turn raw student records into analytical summa
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```text
 Online-Learning-Engagement-Analysis/
@@ -407,7 +407,7 @@ Online-Learning-Engagement-Analysis/
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ## Step 1 — Create the Database
 
@@ -457,7 +457,7 @@ Use the dashboard visuals and filters to investigate student engagement, perform
 
 # 📌 Project Highlights
 
-✨ **SQL-driven analysis**
+ **SQL-driven analysis**
 Uses MySQL to transform student-level records into meaningful analytical summaries.
 
 📊 **Interactive visualization**
@@ -474,7 +474,7 @@ The project demonstrates how educational data can be converted into information 
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 The project can be extended with:
 
@@ -489,7 +489,7 @@ The project can be extended with:
 
 ---
 
-# 🎓 Skills Demonstrated
+#  Skills Demonstrated
 
 **Data Analytics | SQL | MySQL | Power BI | Data Visualization | Exploratory Data Analysis | Business Intelligence | KPI Analysis | Data Interpretation | Dashboard Development**
 
